@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Pyhton](https://img.shields.io/badge/-python-e83a7d?style=flat&logo=python&logoColor=white)
+![html5](https://img.shields.io/badge/-html5-90f43a?style=flat&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/-cplusplus-d14b5e?style=flat&logo=cplusplus&logoColor=white)
+![MySql](https://img.shields.io/badge/-mysql-e6f196?style=flat&logo=mysql&logoColor=black)
+![Java](https://img.shields.io/badge/d20a8f?style=flat&logo=Color=white)
+![Jupyter](https://img.shields.io/badge/-jupyter-61f4b1?style=flat&logo=jupyter&logoColor=black)
