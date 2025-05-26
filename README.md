@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ![html5](https://img.shields.io/badge/-html5-90f43a?style=flat&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/-cplusplus-d14b5e?style=flat&logo=cplusplus&logoColor=white)
 ![MySql](https://img.shields.io/badge/-mysql-e6f196?style=flat&logo=mysql&logoColor=black)
-![ApacheNetBeansIDE](https://img.shields.io/badge/-apachenetbeanside-950b90?style=flat&logo=apachenetbeanside&logoColor=white)
+![Apache NetBeans IDE](https://img.shields.io/badge/-apachenetbeanside-950b90?style=flat&logo=apachenetbeanside&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-jupyter-61f4b1?style=flat&logo=jupyter&logoColor=black)
